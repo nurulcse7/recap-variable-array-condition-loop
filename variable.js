@@ -14,4 +14,23 @@ VARIABLE
 10. ++, --
 11. parseInt, ParseFloat
 12. toFixed
+
+
+1. What is JavaScript?
+Ans. JavaScript is a interpreted, scripting language that enables you to create dynamically updating content, 
+control multimedia, animate images, and pretty much everything else. 
+
+2. How does JS Works?
+Ans. 
+
+3. What is Variable?
+4. Declare a variable
+5. Types of Variable? How can you find out type of a variable
+6. Primitive and non-primitive data types
+7. Naming Convention of JS variables
+8. Math Operation +, -, *, /, %
+9. Short hand: +=, -=, *=, /=
+10. ++, --
+11. parseInt, ParseFloat
+12. toFixed
 */
